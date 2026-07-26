@@ -1,0 +1,17 @@
+{
+ "registry": 1,
+ "lexicons": {
+  "politeness": {
+   "latest": "1.0.0",
+   "description": "TASS Politeness Markers v1 — 15 politeness-strategy categories (lexical + phrase approximation of the Danescu-Niculescu-Mizil et al. 2013 taxonomy).",
+   "license": "CC-BY-4.0",
+   "citation": "SIM DAD LLC (2026). TASS politeness markers v1: lexical + phrase approximation of the strategy taxonomy in Danescu-Niculescu-Mizil, C., Sudhof, M., Jurafsky, D., Leskovec, J., & Potts, C. (2013). A computational approach to politeness with application to social factors. ACL 2013. Released under CC-BY-4.0. https://www.cs.cornell.edu/~cristian/Politeness.html",
+   "versions": {
+    "1.0.0": {
+     "path": "lexicons/politeness/1.0.0/lexicon.json",
+     "sha256": "c68027365abb2dadf14143459096ef200e7817a596661614b5ddc10997581606"
+    }
+   }
+  }
+ }
+}

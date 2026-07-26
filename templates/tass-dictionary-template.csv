@@ -1,0 +1,17 @@
+# TASS dictionary template — fill in Excel/Google Sheets, save as CSV, then:
+#   tass import-csv -i my-dictionary.csv -o my-dictionary.json
+# Metadata (edit the values; lines starting with # are ignored by the spreadsheet):
+#id: my-dictionary
+#name: My Dictionary
+#license: CC-BY-4.0
+#citation: Your Name (2026). My Dictionary v1. https://doi.org/...
+#language: en
+#description: What this dictionary measures, in one sentence.
+category,term,weight,category_label
+positive,happy,,Positive emotion
+positive,joy*,,Positive emotion
+positive,thank you,,Positive emotion
+negative,sad,,Negative emotion
+negative,terribl*,,Negative emotion
+intensity,love,3,Weighted example (leave weight blank for plain counting)
+intensity,like,1,Weighted example (leave weight blank for plain counting)

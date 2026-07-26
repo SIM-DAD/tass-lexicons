@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this dictionary, cite it as below, and also cite the taxonomy it approximates (Danescu-Niculescu-Mizil et al., 2013)."
+title: "TASS Politeness Markers"
+version: "1.0.0"
+type: dataset
+license: CC-BY-4.0
+authors:
+  - family-names: Leith
+    given-names: Alex P.
+    affiliation: "SIM DAD LLC"
+abstract: >
+  Fifteen politeness-strategy marker categories (gratitude, deference, greeting, apology,
+  hedge, please, indirection, first- and second-person address, modality, factuality,
+  affirmation, negation, and related strategies). A lexical and phrase-level approximation
+  of the politeness strategy taxonomy of Danescu-Niculescu-Mizil, Sudhof, Jurafsky,
+  Leskovec, and Potts (2013), not a reimplementation of that paper's trained classifier.
+  Report it as an approximation.
+url: "https://github.com/SIM-DAD/tass-lexicons"
+references:
+  - type: conference-paper
+    title: "A computational approach to politeness with application to social factors"
+    authors:
+      - family-names: Danescu-Niculescu-Mizil
+        given-names: Cristian
+      - family-names: Sudhof
+        given-names: Moritz
+      - family-names: Jurafsky
+        given-names: Dan
+      - family-names: Leskovec
+        given-names: Jure
+      - family-names: Potts
+        given-names: Christopher
+    year: 2013
+    conference:
+      name: "ACL 2013"
