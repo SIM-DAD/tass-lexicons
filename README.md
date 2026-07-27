@@ -1,7 +1,7 @@
 # tass-lexicons
 
 The public dictionary registry for [TASS](https://usetass.app) (Text Analysis for Social
-Scientists, a SIM DAD LLC product). Every lexicon here is open, versioned, hash-pinned, and
+Scientists, a [SIM DAD LLC](https://simdadllc.com) product). Every lexicon here is open, versioned, hash-pinned, and
 citable. Install by name from the TASS CLI:
 
 ```
